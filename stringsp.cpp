@@ -33,7 +33,8 @@ int main()
     // cout<<str2;
     // //cin.ignore() use when the is a space after the number of test cases
     //printing reverse of a string
-    
+    //if a very large number take it in string format
+    //extract the number and subtract the ascii value of A,a, 0 as per what you are taking 
 
 
 
